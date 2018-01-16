@@ -1,0 +1,18 @@
+{
+  "name": "random-company",
+  "version": "0.0.0",
+  "description": "nodejs package for https://www.switchplane.com/awesome/business-name-generator",
+  "main": "index.js",
+  "scripts": {
+    "build": "node_modules/.bin/coffee -cbo . src/index.coffee"
+  },
+  "repository": "https://github.com/rabrux/random-company.git",
+  "author": "rabrux <n3ur0n4@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "coffeescript": "^2.1.1"
+  },
+  "dependencies": {
+    "sync-request": "^4.1.0"
+  }
+}
