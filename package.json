@@ -1,6 +1,6 @@
 {
   "name": "random-company",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "nodejs package for https://www.switchplane.com/awesome/business-name-generator",
   "main": "index.js",
   "scripts": {
